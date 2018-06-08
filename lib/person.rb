@@ -11,12 +11,12 @@ class Person
     @name = person_name 
   end
   
-  def breed=(dog_breed)
-    @breed = dog_breed
+  def job=(person_job)
+    @job = person_job
   end 
 
-  def breed
-   @breed
+  def job
+   @job
   end
 
   def name 
@@ -25,10 +25,10 @@ class Person
 
 end 
 
-dog = Dog.new
+person = Person.new
   
-dog.name = "Lassie"
-puts dog.name
+person.name = "Melany"
+puts person.name
 
 
 
