@@ -27,7 +27,7 @@ end
 
 dog = Dog.new
   
-  dog.name = lassie
+dog.name = "Lassie"
 puts dog.name
 #   class Dog 
    
