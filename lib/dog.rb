@@ -16,7 +16,7 @@ def breed = (dog_breed)
 end 
 end 
 
-
+dog = Dog.new 
   
 #   class Dog 
    
