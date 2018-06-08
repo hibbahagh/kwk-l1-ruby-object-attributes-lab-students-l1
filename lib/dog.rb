@@ -25,7 +25,7 @@ end
 
 end 
 
-dog = Dog.new 
+dog = Dog.new
   
 #   class Dog 
    
