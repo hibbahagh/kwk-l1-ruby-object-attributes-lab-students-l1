@@ -12,21 +12,22 @@ class Dog
   end
   
   def breed = (dog_breed)
-  @breed = dog_breed
-end 
+    @breed = dog_breed
+  end 
 
-def breed
-  @breed
-end
+  def breed
+   @breed
+  end
 
-def name 
-  @name
-end
+  def name 
+    @name
+  end
 
 end 
 
 dog = Dog.new
   
+  puts dog
 #   class Dog 
    
 #   def name=(dog_name)
