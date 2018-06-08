@@ -27,7 +27,7 @@ end
 
 dog = Dog.new
   
-  puts dog
+puts dog.name
 #   class Dog 
    
 #   def name=(dog_name)
